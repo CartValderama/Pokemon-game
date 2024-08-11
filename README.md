@@ -14,6 +14,7 @@ Interact with NPCs (non-playable characters) and explore the game world. Each ch
 Enter battles when you overlap with designated battle zones. The battle system triggers an animation and audio effects, immersing you in the action.
 ### Responsive Movement: 
 Move the player character using WASD keys. The character's sprite changes based on the direction of movement (up, down, left, right), and collision detection prevents movement through boundaries.
-### Audio Effects: The game includes background music and sound effects to enhance the gameplay experience. Click anywhere on the screen to start the background music.
+### Audio Effects: 
+The game includes background music and sound effects to enhance the gameplay experience. Click anywhere on the screen to start the background music.
 
 
