@@ -6,10 +6,14 @@ The game allows you to explore a pixelated world, interact with characters, and 
 
 ## Features:
 
-### Dynamic Map: The game world is mapped using tiles, which include boundaries, battle zones, and interactive characters. The map adjusts as you navigate through different areas.
-### Character Interaction: Interact with NPCs (non-playable characters) and explore the game world. Each character has its own sprite and animation.
-### Battle System: Enter battles when you overlap with designated battle zones. The battle system triggers an animation and audio effects, immersing you in the action.
-### Responsive Movement: Move the player character using WASD keys. The character's sprite changes based on the direction of movement (up, down, left, right), and collision detection prevents movement through boundaries.
+### Dynamic Map: 
+The game world is mapped using tiles, which include boundaries, battle zones, and interactive characters. The map adjusts as you navigate through different areas.
+### Character Interaction: 
+Interact with NPCs (non-playable characters) and explore the game world. Each character has its own sprite and animation.
+### Battle System: 
+Enter battles when you overlap with designated battle zones. The battle system triggers an animation and audio effects, immersing you in the action.
+### Responsive Movement: 
+Move the player character using WASD keys. The character's sprite changes based on the direction of movement (up, down, left, right), and collision detection prevents movement through boundaries.
 ### Audio Effects: The game includes background music and sound effects to enhance the gameplay experience. Click anywhere on the screen to start the background music.
 
 
