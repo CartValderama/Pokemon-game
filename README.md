@@ -1,5 +1,5 @@
 # Pokémon-like Game
-Welcome to the Pokémon-like Game project! This 2022 fun project is a pixel-art adventure game built using vanilla JavaScript. It features a map created with "Tiles" and vibrant pixel art created using Piskel. Inspired by Chris Courses on YouTube, this game brings the charm of classic Pokémon games to the web.
+Welcome to the Pokémon-like Game project! This 2020 fun project is a pixel-art adventure game built using vanilla JavaScript. It features a map created with "Tiles" and vibrant pixel art created using Piskel. Inspired by Chris Courses on YouTube, this game brings the charm of classic Pokémon games to the web.
 
 ## 🎮 About the Game
 The game allows you to explore a pixelated world, interact with characters, and encounter battles in a classic RPG-style format. Here's a breakdown of the key features and functionality:
