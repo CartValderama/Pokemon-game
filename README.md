@@ -1,20 +1,26 @@
-# Pokémon-like Game
-Welcome to the Pokémon-like Game project! This 2022 fun project is a pixel-art adventure game built using vanilla JavaScript. It features a map created with "Tiles" and vibrant pixel art created using Piskel. Inspired by Chris Courses on YouTube, this game brings the charm of classic Pokémon games to the web.
+# Pokémon-like Game: A Pixel-Art Adventure
+
+Welcome to the Pokémon-like Game project! This 2022 pixel-art adventure game, created using vanilla JavaScript, captures the essence of classic Pokémon games. It features a dynamic map, character interactions, and an engaging battle system, all presented in vibrant pixel art.
 
 ## 🎮 About the Game
-The game allows you to explore a pixelated world, interact with characters, and encounter battles in a classic RPG-style format. Here's a breakdown of the key features and functionality:
 
-## Features:
+The game offers a nostalgic RPG experience with these key features:
 
-### Dynamic Map: 
-The game world is mapped using tiles, which include boundaries, battle zones, and interactive characters. The map adjusts as you navigate through different areas.
-### Character Interaction: 
-Interact with NPCs (non-playable characters) and explore the game world. Each character has its own sprite and animation.
-### Battle System: 
-Enter battles when you overlap with designated battle zones. The battle system triggers an animation and audio effects, immersing you in the action.
-### Responsive Movement: 
-Move the player character using WASD keys. The character's sprite changes based on the direction of movement (up, down, left, right), and collision detection prevents movement through boundaries.
-### Audio Effects: 
-The game includes background music and sound effects to enhance the gameplay experience. Click anywhere on the screen to start the background music.
+### Dynamic Map
+- **Tile-Based Design**: The world is mapped with tiles, including boundaries, battle zones, and interactive characters.
+- **Adaptive Navigation**: The map adjusts as you explore different areas.
+### Battle System
+- **Engaging Battles**: Enter battles in designated zones with immersive animations and sound effects.
+
+### Responsive Movement
+- **Directional Control**: Move using WASD keys with dynamic sprite changes based on direction.
+- **Collision Detection**: Prevents movement through boundaries for a smooth experience.
+
+### Audio Effects
+- **Soundscapes**: Includes background music and sound effects to enhance gameplay. Click anywhere to start the music.
+
+## Object-Oriented Programming (OOP)
+
+The game employs object-oriented programming principles to create a modular and scalable codebase. Key classes like `Sprite`, `Monster`, and `Boundary` are used to manage various aspects of the game, including graphics, interactions, and boundaries. This approach ensures a well-structured and maintainable codebase.
 
 
