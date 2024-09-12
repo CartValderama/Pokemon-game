@@ -19,6 +19,16 @@ The game offers a nostalgic RPG experience with these key features:
 ### Audio Effects
 - **Soundscapes**: Includes background music and sound effects to enhance gameplay. Click anywhere to start the music.
 
+## Development
+
+This game is developed using:
+
+- **HTML5 Canvas:** For rendering the game graphics.
+- **JavaScript:** For game logic and interactivity.
+- **Tiled Application:** For creating detailed 2D maps.
+- **Howler.js:** For managing game audio.
+- **GSAP:** For smooth animations and transitions.
+
 ## Object-Oriented Programming (OOP)
 
 The game employs object-oriented programming principles to create a modular and scalable codebase. Key classes like `Sprite`, `Monster`, and `Boundary` are used to manage various aspects of the game, including graphics, interactions, and boundaries. This approach ensures a well-structured and maintainable codebase.
