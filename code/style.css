@@ -308,20 +308,6 @@ button:hover {
         top: 420px;
     }
 }
-@media only screen and (max-height: 800px) {
-    .container,
-    .container1 {
-        display: none;
-    }
-    .hidden-msg {
-        display: flex;
-        text-align: center;
-        justify-content: center;
-    }
-    .hidden-msg P {
-        font-size: 2rem;
-        color: red;
-    }
-}
+
 
 
