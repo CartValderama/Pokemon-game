@@ -309,5 +309,21 @@ button:hover {
     }
 }
 
+@media only screen and (max-width: 700px) {
+    .container,
+    .container1 {
+        display: none;
+    }
+    .hidden-msg {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+    .hidden-msg P {
+        font-size: 2rem;
+        color: red;
+    }
+}
+
 
 
